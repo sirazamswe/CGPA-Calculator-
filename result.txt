@@ -1,0 +1,25 @@
+Student: Monira
+ID: 242-35-637
+Semester: 5
+Date: 2026-04-05 12:13:20
+---------------------------------------------
+OOP             3.0      B        3.00      
+OOP Lab         1.0      A        3.75      
+Algo            3.0      A+       4.00      
+Final CGPA = 3.54
+Classification: Excellent
+
+Student: Raisa
+ID: 232-15-080
+Semester: 6th
+Date: 2026-04-18 11:33:51
+---------------------------------------------
+OC              3.0      A-       3.50      
+FE              3.0      A+       4.00      
+ff              3.0      D        2.00      
+EE              3.0      A-       3.50      
+Lab             1.0      B+       3.25      
+Food            3.0      A+       4.00      
+Final CGPA = 3.39
+Classification: Good
+
